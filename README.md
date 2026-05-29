@@ -4,7 +4,7 @@
 
 ![Linux](https://img.shields.io/badge/OS-Linux-blue?logo=linux&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-13-A81D33?logo=debian&logoColor=white)
-![GitHub](https://img.shields.io/github/stars/GodFather850?style=social)
+![GitHub](https://img.shields.io/github/stars/CAgent47?style=social)
 
 > "I don't want my desktop to dance. I want it to **work** — fast, clean, focused." – Me after testing too many DEs 😂
 
