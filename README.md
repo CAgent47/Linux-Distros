@@ -56,13 +56,14 @@ Connect:
 🔗 [LinkedIn](https://www.linkedin.com/in/mohammad-shaygan-2a96a8387/)  
 🐙 [GitHub](https://github.com/GodFather850)
 
-![#Linux](https://github.com/linux)
-![#Debian](https://github.com/debian)
-![#LXQt](https://github.com/LXQt)
-![#XFCE](https://github.com/XFCE)
-![#OpenSource](https://github.com/opensource)
-![#SelfTaught](https://github.com/selftaught)
-![#Developer](https://github.com/developer)
+[#Linux](https://github.com/topics/linux)
+[#Debian](https://github.com/topics/debian)
+[#LXQt](https://github.com/topics/LXQt)
+[#XFCE](https://github.com/topics/XFCE)
+[#OpenSource](https://github.com/topics/opensource)
+[#SelfTaught](https://github.com/topics/selftaught)
+[#Developer](https://github.com/topics/developer)
+[#CAgent_47](https://github.com/topics/CAgent47)
 
 ---
 
