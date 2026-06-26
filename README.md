@@ -73,12 +73,12 @@ It’s the one that:
 
 ## 🧬 Tags
 
-![#Linux](https://github.com/topics/linux) •
-![#Debian](https://github.com/topics/debian) •
-![#DevOps](https://github.com/topics/devops) •
-![#Productivity](https://github.com/topics/productivity) •
-![#Opensource](https://github.com/topics/opensource) •
-![#CAgent_47](https://github.com/topics/CAgent47) •
+[#Linux](https://github.com/topics/linux) •
+[#Debian](https://github.com/topics/debian) •
+[#DevOps](https://github.com/topics/devops) •
+[#Productivity](https://github.com/topics/productivity) •
+[#Opensource](https://github.com/topics/opensource) •
+[#CAgent_47](https://github.com/topics/CAgent47) •
 
 ---
 
