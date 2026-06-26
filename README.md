@@ -37,7 +37,7 @@ This one is based on:
 |----|------------|------|--------|
 | LXQt | 🔥 Fastest | 🔥 Maximum | **Best for deep work** |
 | XFCE | 🔥 Very fast | 🔥 High | Balanced & stable |
-| GNOME | متوسط | Medium | Clean but heavy |
+| GNOME | Medium | Medium | Clean but heavy |
 | KDE Plasma | Heavy | Low | Powerful but distracting |
 | COSMIC | Medium | Medium | Modern & improving |
 
@@ -45,10 +45,9 @@ This one is based on:
 
 ## ⚙️ My Current Setup
 
-- OS: Debian 13 (Trixie)
-- DE: LXQt (main)
-- Backup: XFCE
-- Tools: git • bash • python • tmux • vscode
+- OS: Debian 12 (Stable)
+- DE: GNOME
+- Tools: git • bash • python • tmux • vscode ...
 
 ---
 
@@ -65,17 +64,22 @@ It’s the one that:
 
 ## 🔥 Quick Recommendations
 
-- Beginners → Ubuntu
-- Serious stability → Debian
+- Beginners → Debian
+- Serious stability → Ubuntu
 - Tinkerers → Arch / EndeavourOS
-- Security labs → Kali (VM only)
-- Productivity focus → XFCE / LXQt
+- Security labs → Kali
 
 ---
 
 ## 🧬 Tags
 
 `linux` • `debian` • `devops` • `productivity` • `opensource`
+![#Linux](https://github.com/topics/linux) •
+![#Debian](https://github.com/topics/debian) •
+![#DevOps](https://github.com/topics/devops) •
+![#Productivity](https://github.com/topics/productivity) •
+![#Opensource](https://github.com/topics/opensource) •
+![#CAgent_47](https://github.com/topics/CAgent47) •
 
 ---
 
