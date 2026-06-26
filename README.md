@@ -37,7 +37,7 @@ This one is based on:
 |----|------------|------|--------|
 | LXQt | 🔥 Fastest | 🔥 Maximum | **Best for deep work** |
 | XFCE | 🔥 Very fast | 🔥 High | Balanced & stable |
-| GNOME | Medium | Medium | Clean but heavy |
+| GNOME | Very Good | Very Good | Clean but heavy |
 | KDE Plasma | Heavy | Low | Powerful but distracting |
 | COSMIC | Medium | Medium | Modern & improving |
 
@@ -73,7 +73,6 @@ It’s the one that:
 
 ## 🧬 Tags
 
-`linux` • `debian` • `devops` • `productivity` • `opensource`
 ![#Linux](https://github.com/topics/linux) •
 ![#Debian](https://github.com/topics/debian) •
 ![#DevOps](https://github.com/topics/devops) •
